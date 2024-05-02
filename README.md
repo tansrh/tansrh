@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Tanuj</h1>
 <h3 align="center">A passionate software engineer and competitive programmer</h3>
 <img align="right" width="400" alt="code-n-code" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
